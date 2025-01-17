@@ -1,4 +1,4 @@
-baseurl = "https://example.com/"
+baseurl = https://sdprints.netlify.app/
 title = "SDPrints-Site"
 theme = "hugo-theme-console"
 languageCode = "en-us"
